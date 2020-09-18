@@ -221,20 +221,24 @@
 147. Kruskal’s Minimum Spanning Tree Algorithm => https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
 
 # Day25: (Dynamic Programming)
+
+148. Maximum Product Subarray => https://leetcode.com/problems/maximum-product-subarray/
+149. Longest Increasing Subsequence => https://leetcode.com/problems/longest-increasing-subsequence/
+150. Longest Common Subsequence => https://leetcode.com/problems/longest-common-subsequence/
+151. 0-1 Knapsack Problem => https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+152. Edit Distance => https://leetcode.com/problems/edit-distance/
+153. Maximum Sum Increasing Subsequence => https://www.geeksforgeeks.org/maximum-sum-increasing-subsequence-dp-14/
+154. Matrix Chain Multiplication => https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
+
 # Day26: (Dynamic Programming)
 
-
-
-
-
-
-
-
-
-
-
-
-
+155. Maximum path sum in matrix => https://www.geeksforgeeks.org/maximum-path-sum-matrix/
+156. Coin Change => https://leetcode.com/problems/coin-change/
+157. Subset Sum Problem => https://www.geeksforgeeks.org/subset-sum-problem-dp-25/
+158. Cutting a Rod => https://www.geeksforgeeks.org/cutting-a-rod-dp-13/
+159. Super Egg Drop => https://leetcode.com/problems/super-egg-drop/
+160. Same as 56
+161. Palindrome Partitioning(MCM variation) => https://leetcode.com/problems/palindrome-partitioning/
 
 # Day27:
 
