@@ -1,6 +1,7 @@
 # SDE-PROBLEMS
 
 Day1: (Arrays)
+
 1. Find the Duplicate Number => https://leetcode.com/problems/find-the-duplicate-number/
 2. Sort Colors => https://leetcode.com/problems/sort-colors/
 3. Missing Number => https://leetcode.com/problems/missing-number/
@@ -9,6 +10,7 @@ Day1: (Arrays)
 6. Merge Intervals => https://leetcode.com/problems/merge-intervals/
 
 Day2: (Arrays)
+
 7. Set Matrix Zeroes => https://leetcode.com/problems/set-matrix-zeroes/
 8. Pascal Triangle => https://leetcode.com/problems/pascals-triangle/
 9. Next Permutation => https://leetcode.com/problems/next-permutation/
