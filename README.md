@@ -192,6 +192,36 @@
 127. Largest BST => https://practice.geeksforgeeks.org/problems/largest-bst/1
 128. Serialize and Deserialize Binary Tree => https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 
+# Day22: (Mixed Questions)
+
+129. Binary Tree to DLL => https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1
+130. Find Median from Data Stream => https://leetcode.com/problems/find-median-from-data-stream/
+131. Kth Largest Element in a Stream => https://leetcode.com/problems/kth-largest-element-in-a-stream/
+132. Count distinct elements in every window of size k => https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/
+133. Kth Largest Element in an Array => https://leetcode.com/problems/kth-largest-element-in-an-array/
+134. Flood Fill => https://leetcode.com/problems/flood-fill/
+
+# Day23: (Graph)
+
+135. Clone Graph => https://leetcode.com/problems/clone-graph/
+136. Depth First Search or DFS for a Graph => https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+137. Breadth First Search or BFS for a Graph => https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+138. Detect cycle in an undirected/directed graph => https://www.geeksforgeeks.org/detect-cycle-undirected-graph/ & https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
+139. Topological Sorting => https://www.geeksforgeeks.org/topological-sorting/
+140. Number of Islands => https://leetcode.com/problems/number-of-islands/
+141. Is Graph Bipartite? => https://leetcode.com/problems/is-graph-bipartite/
+
+# Day24: (Graph)
+
+142. Strongly Connected Components => https://www.geeksforgeeks.org/strongly-connected-components/
+143. Dijkstra’s shortest path algorithm => https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+144. Bellman–Ford Algorithm => https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/
+145. Floyd Warshall Algorithm => https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/
+146. Prim’s Minimum Spanning Tree (MST) => https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/
+147. Kruskal’s Minimum Spanning Tree Algorithm => https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
+
+# Day25: (Dynamic Programming)
+# Day26: (Dynamic Programming)
 
 
 
