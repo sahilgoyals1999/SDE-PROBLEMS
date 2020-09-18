@@ -165,13 +165,32 @@
 109. Lowest Common Ancestor of a Binary Tree => https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 110. Same Tree => https://leetcode.com/problems/same-tree/
 
+# Day19: (Binary Tree)
 
+111. Binary Tree Maximum Path Sum => https://leetcode.com/problems/binary-tree-maximum-path-sum/
+112. Construct Binary Tree from Preorder and Inorder Traversal => https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+113. Construct Binary Tree from Inorder and Postorder Traversal => https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+114. Symmetric Tree => https://leetcode.com/problems/symmetric-tree/
+115. Flatten Binary Tree to Linked List => https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+116. Symmetric Tree => https://practice.geeksforgeeks.org/problems/symmetric-tree/1
 
+# Day20: (Binary Search Tree)
 
+117. Populating Next Right Pointers in Each Node => https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/
+118. Search in a Binary Search Tree => https://leetcode.com/problems/search-in-a-binary-search-tree/
+119. Construct all possible BSTs for keys 1 to N => https://www.geeksforgeeks.org/construct-all-possible-bsts-for-keys-1-to-n/
+120. Validate Binary Search Tree => https://leetcode.com/problems/validate-binary-search-tree/
+121. Lowest Common Ancestor of a Binary Search Tree => https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+122. Predecessor and Successor => https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1
 
+# Day21: (Binary Search Tree)
 
-
-
+123. Floor and Ceil from a BST => https://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/
+124. Kth Smallest/Largest Element in a BST => https://leetcode.com/problems/kth-smallest-element-in-a-bst/ & https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1
+125. Two Sum IV - Input is a BST => https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+126. Binary Search Tree Iterator => https://leetcode.com/problems/binary-search-tree-iterator/
+127. Largest BST => https://practice.geeksforgeeks.org/problems/largest-bst/1
+128. Serialize and Deserialize Binary Tree => https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 
 
 
