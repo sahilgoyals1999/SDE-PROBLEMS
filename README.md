@@ -74,6 +74,33 @@
 49. Minimum Platforms => https://practice.geeksforgeeks.org/problems/minimum-platforms/0
 50. Maximum Profit in Job Scheduling => https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 
+# Day9: (Backtracking)
+
+51. N-Queens => https://leetcode.com/problems/n-queens/
+52. Sudoku Solver => https://leetcode.com/problems/sudoku-solver/
+53. M-Coloring Problem => https://practice.geeksforgeeks.org/problems/m-coloring-problem/0
+54. Rat in a Maze Problem - I => https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
+55. Permutations => https://leetcode.com/problems/permutations/
+56. Word Break => https://leetcode.com/problems/word-break/
+
+# Day10: (Backtracking)
+
+57.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
