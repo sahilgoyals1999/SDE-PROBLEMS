@@ -118,7 +118,28 @@
 
 
 
+# Day27:
 
+1. Revise OS notes that you would have made during your sem
+2. If not made notes, spend 2 or 3 days and make notes from Knowledge Gate.
+
+# Day28:
+
+1. Revise DBMS notes that you would have made during your semesters.
+2. If not made notes, spend 2 or 3 days and make notes from Knowledge Gate.
+
+# Day29:
+
+1. Revise CN notes, that you would have made during your sem.
+2. If not made notes, spend 2 or 3 days and make notes from Knowledge Gate.
+
+# Day30:
+
+1. Make a note of how will your represent your projects, and prepare all questions
+related to tech which you have used in your projects. Prepare a note which you can
+say for 3-10 minutes when he asks you that say something about the project.
+
+# Hurrah!! You are ready for your placement after a month of hard-work without a cheat day.
 
 
 
