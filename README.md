@@ -20,8 +20,7 @@ Day2: (Arrays)
 
 Day3: (Arrays/Maths)
 
-13. Search a 2D Matrix => https://leetcode.com/problems/search-a-2d-matrix/
-    Search in a matrix => https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0
+13. Search a 2D Matrix => https://leetcode.com/problems/search-a-2d-matrix/ & https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0
 14. Pow(x, n) => https://leetcode.com/problems/powx-n/
 15. Majority Element => https://leetcode.com/problems/majority-element/
 16. Majority Element II => https://leetcode.com/problems/majority-element-ii/
