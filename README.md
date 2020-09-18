@@ -85,11 +85,16 @@
 
 # Day10: (Backtracking)
 
-57.
+57. Combination Sum => https://leetcode.com/problems/combination-sum/
+58. Combination Sum II => https://leetcode.com/problems/combination-sum-ii/
+59. Palindrome Partitioning => https://leetcode.com/problems/palindrome-partitioning/
+60. Subset Sum Problem => https://practice.geeksforgeeks.org/problems/subset-sum-problem/0
+61. Partition Equal Subset Sum => https://leetcode.com/problems/partition-equal-subset-sum/
+62. Permutation Sequence => https://leetcode.com/problems/permutation-sequence/
 
+# Day11: (Divide and Conquer)
 
-
-
+63. 
 
 
 
