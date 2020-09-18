@@ -138,6 +138,41 @@
 91. Longest Common Prefix => https://leetcode.com/problems/longest-common-prefix/
 92. Rabin-Karp => https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/
 
+# Day16: (String) 
+
+93. Repeated Substring Pattern(using Z-function) => https://leetcode.com/problems/repeated-substring-pattern/ & https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/
+94. KMP Algorithm => https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+95. Minimum Insertion Steps to Make a String Palindrome => https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+96. Anagram => https://leetcode.com/problems/valid-anagram/ & https://leetcode.com/problems/group-anagrams/ & https://leetcode.com/problems/find-all-anagrams-in-a-string/ & https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+97. Count and Say => https://leetcode.com/problems/count-and-say/
+98. Compare Version Numbers => https://leetcode.com/problems/compare-version-numbers/
+
+# Day17: (Binary Tree)
+
+99. Binary Tree Inorder Traversal(with and without Recursion) => https://leetcode.com/problems/binary-tree-inorder-traversal/
+100. Binary Tree Preorder Traversal(with and without Recursion) => https://leetcode.com/problems/binary-tree-preorder-traversal/
+101. Binary Tree Postorder Traversal(with and without Recursion) => https://leetcode.com/problems/binary-tree-postorder-traversal/
+102. Left/Right View of Binary Tree => https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1 & https://leetcode.com/problems/binary-tree-right-side-view/
+103. Bottom View of Binary Tree => https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
+104. Top View of Binary Tree => https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+
+# Day18: (Binary Tree)
+
+105. Binary Tree Level Order Traversal => https://leetcode.com/problems/binary-tree-level-order-traversal/ & https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+106. Maximum Depth/Height of Binary Tree => https://leetcode.com/problems/maximum-depth-of-binary-tree/
+107. Diameter of Binary Tree =>  https://leetcode.com/problems/diameter-of-binary-tree/
+108. Balanced Binary Tree => https://leetcode.com/problems/balanced-binary-tree/
+109. Lowest Common Ancestor of a Binary Tree => https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+110. Same Tree => https://leetcode.com/problems/same-tree/
+
+
+
+
+
+
+
+
+
 
 
 
