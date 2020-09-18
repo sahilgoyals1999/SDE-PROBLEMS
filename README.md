@@ -120,7 +120,23 @@
 80. Next Greater Element => https://leetcode.com/problems/next-greater-element-i/ & https://leetcode.com/problems/next-greater-element-ii/
 
 
+# Day14: (Stack and Queue) 
 
+81. Same as 80
+82. LRU Cache => https://leetcode.com/problems/lru-cache/
+83. Largest Rectangle in Histogram => https://leetcode.com/problems/largest-rectangle-in-histogram/
+84. Sliding Window Maximum => https://leetcode.com/problems/sliding-window-maximum/
+85. Min Stack => https://leetcode.com/problems/min-stack/
+86. Rotten Orange => https://leetcode.com/problems/rotting-oranges/
+
+# Day15: (String) 
+
+87. Reverse Words in a String => https://leetcode.com/problems/reverse-words-in-a-string/
+88. Longest Palindromic Substring => https://leetcode.com/problems/longest-palindromic-substring/
+89. Roman <=> Integer => https://leetcode.com/problems/roman-to-integer/ & https://leetcode.com/problems/integer-to-roman/
+90. String to Integer (atoi) => https://leetcode.com/problems/string-to-integer-atoi/ & https://leetcode.com/problems/implement-strstr/
+91. Longest Common Prefix => https://leetcode.com/problems/longest-common-prefix/
+92. Rabin-Karp => https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/
 
 
 
