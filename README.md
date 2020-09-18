@@ -94,12 +94,30 @@
 
 # Day11: (Divide and Conquer)
 
-63. 
+63. Find Nth root of M => https://practice.geeksforgeeks.org/problems/find-nth-root-of-m/0
+64. Median In a Row-Wise sorted Matrix => https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix/0
+65. Single Element in a Sorted Array => https://leetcode.com/problems/single-element-in-a-sorted-array/
+66. Search in Rotated Sorted Array => https://leetcode.com/problems/search-in-rotated-sorted-array/
+67. Median of Two Sorted Arrays => https://leetcode.com/problems/median-of-two-sorted-arrays/
+68. K-th element of two sorted Arrays => https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0
 
+# Day12: (Bits) (Optional)
 
+69. Power of Two => https://leetcode.com/problems/power-of-two/
+70. Count total set bits => https://practice.geeksforgeeks.org/problems/count-total-set-bits/0
+71. Divide Two Integers => https://leetcode.com/problems/divide-two-integers/
+72. Subsets => https://leetcode.com/problems/subsets/ & https://leetcode.com/problems/subsets-ii/description/
+73. Find first set bit => https://practice.geeksforgeeks.org/problems/find-first-set-bit/0
+74. Find square of a number without using * or / operators => https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/
 
+# Day13: (Stack and Queue)
 
-
+75. Implement stack/queue using array => https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1 & https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1
+76. BFS of graph => https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
+77. Implement Stack using Queues => https://leetcode.com/problems/implement-stack-using-queues/
+78. Implement Queue using Stacks => https://leetcode.com/problems/implement-queue-using-stacks/
+79. Valid Parenthese => https://leetcode.com/problems/valid-parentheses/
+80. Next Greater Element => https://leetcode.com/problems/next-greater-element-i/ & https://leetcode.com/problems/next-greater-element-ii/
 
 
 
