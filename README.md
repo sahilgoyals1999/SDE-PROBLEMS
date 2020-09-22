@@ -1,5 +1,6 @@
 # SDE-PROBLEMS
 
+# Day 21
 # Day1: (Arrays) 🎉
 
 1. Find the Duplicate Number => https://leetcode.com/problems/find-the-duplicate-number/ ✔
