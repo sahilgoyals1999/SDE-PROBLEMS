@@ -112,11 +112,11 @@
 
 # Day13: (Stack and Queue)
 
-75. Implement stack/queue using array => https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1 & https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1
-76. BFS of graph => https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
-77. Implement Stack using Queues => https://leetcode.com/problems/implement-stack-using-queues/
-78. Implement Queue using Stacks => https://leetcode.com/problems/implement-queue-using-stacks/
-79. Valid Parenthese => https://leetcode.com/problems/valid-parentheses/
+75. Implement stack/queue using array => https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1 ✔ & https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1 ✔
+76. BFS of graph => https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1 ✔
+77. Implement Stack using Queues => https://leetcode.com/problems/implement-stack-using-queues/ ✔
+78. Implement Queue using Stacks => https://leetcode.com/problems/implement-queue-using-stacks/ ✔
+79. Valid Parenthese => https://leetcode.com/problems/valid-parentheses/ ✔
 80. Next Greater Element => https://leetcode.com/problems/next-greater-element-i/ & https://leetcode.com/problems/next-greater-element-ii/
 
 
