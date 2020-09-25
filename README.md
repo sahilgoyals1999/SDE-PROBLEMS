@@ -96,18 +96,18 @@
 
 63. Find Nth root of M => https://practice.geeksforgeeks.org/problems/find-nth-root-of-m/0
 64. Median In a Row-Wise sorted Matrix => https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix/0
-65. Single Element in a Sorted Array => https://leetcode.com/problems/single-element-in-a-sorted-array/
-66. Search in Rotated Sorted Array => https://leetcode.com/problems/search-in-rotated-sorted-array/
+65. Single Element in a Sorted Array => https://leetcode.com/problems/single-element-in-a-sorted-array/ ✔
+66. Search in Rotated Sorted Array => https://leetcode.com/problems/search-in-rotated-sorted-array/ ✔
 67. Median of Two Sorted Arrays => https://leetcode.com/problems/median-of-two-sorted-arrays/
 68. K-th element of two sorted Arrays => https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0
 
 # Day12: (Bits) (Optional)
 
-69. Power of Two => https://leetcode.com/problems/power-of-two/
-70. Count total set bits => https://practice.geeksforgeeks.org/problems/count-total-set-bits/0
+69. Power of Two => https://leetcode.com/problems/power-of-two/ ✔
+70. Count total set bits => https://practice.geeksforgeeks.org/problems/count-total-set-bits/0 ✔
 71. Divide Two Integers => https://leetcode.com/problems/divide-two-integers/
-72. Subsets => https://leetcode.com/problems/subsets/ & https://leetcode.com/problems/subsets-ii/description/
-73. Find first set bit => https://practice.geeksforgeeks.org/problems/find-first-set-bit/0
+72. Subsets => https://leetcode.com/problems/subsets/ & https://leetcode.com/problems/subsets-ii/description/ 
+73. Find first set bit => https://practice.geeksforgeeks.org/problems/find-first-set-bit/0 ✔
 74. Find square of a number without using * or / operators => https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/
 
 # Day13: (Stack and Queue)
