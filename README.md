@@ -48,7 +48,7 @@
 
 # Day6: (LinkedList)
 
-32. Intersection of Two Linked Lists => https://leetcode.com/problems/intersection-of-two-linked-lists/
+32. Intersection of Two Linked Lists => https://leetcode.com/problems/intersection-of-two-linked-lists/ ✔ & https://leetcode.com/problems/linked-list-cycle/ ✔
 33. Palindrome Linked List => https://leetcode.com/problems/palindrome-linked-list/
 34. Reverse Nodes in k-Group => https://leetcode.com/problems/reverse-nodes-in-k-group/
 35. Linked List Cycle II => https://leetcode.com/problems/linked-list-cycle-ii/
@@ -245,7 +245,7 @@
 1. Revise OS notes that you would have made during your sem
 2. If not made notes, spend 2 or 3 days and make notes from Knowledge Gate.
 
-# Day28:
+# Day28: ✔
 
 1. Revise DBMS notes that you would have made during your semesters.
 2. If not made notes, spend 2 or 3 days and make notes from Knowledge Gate.
