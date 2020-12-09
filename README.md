@@ -52,7 +52,7 @@
 33. Palindrome Linked List => https://leetcode.com/problems/palindrome-linked-list/ ✔
 34. Reverse Nodes in k-Group => https://leetcode.com/problems/reverse-nodes-in-k-group/ ✔
 35. Linked List Cycle II => https://leetcode.com/problems/linked-list-cycle-ii/ ✔
-36. Flatten a Multilevel Doubly Linked List => https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+36. Flatten a Multilevel Doubly Linked List => https://www.geeksforgeeks.org/flattening-a-linked-list/ ✔ & https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/ ✔
 37. Rotate List => https://leetcode.com/problems/rotate-list/
 38. Copy List with Random Pointer => https://leetcode.com/problems/copy-list-with-random-pointer/
 
