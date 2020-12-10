@@ -1,6 +1,6 @@
 # SDE-PROBLEMS
 
-# Day1: (Arrays)
+# Day1: (Arrays) ✔
 
 1. Find the Duplicate Number => https://leetcode.com/problems/find-the-duplicate-number/ ✔
 2. Sort Colors => https://leetcode.com/problems/sort-colors/ ✔
@@ -9,7 +9,7 @@
 5. Maximum Subarray => https://leetcode.com/problems/maximum-subarray/ ✔
 6. Merge Intervals => https://leetcode.com/problems/merge-intervals/ ✔
  
-# Day2: (Arrays)
+# Day2: (Arrays) ✔
 
 7. Set Matrix Zeroes => https://leetcode.com/problems/set-matrix-zeroes/ ✔
 8. Pascal Triangle => https://leetcode.com/problems/pascals-triangle/ ✔
@@ -18,7 +18,7 @@
 11. Best Time to Buy and Sell Stock => https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ ✔
 12. Rotate Image => https://leetcode.com/problems/rotate-image/ ✔
 
-# Day3: (Arrays/Maths)
+# Day3: (Arrays/Maths) ✔
 
 13. Search a 2D Matrix => https://leetcode.com/problems/search-a-2d-matrix/ ✔ & https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0 ✔
 14. Pow(x, n) => https://leetcode.com/problems/powx-n/ ✔
@@ -28,7 +28,7 @@
 18. Reverse Pairs => https://leetcode.com/problems/reverse-pairs/ ✔
 19. Go through Puzzles from GFG
 
-# Day4: (Hashing)
+# Day4: (Hashing) ✔
 
 20. Two Sum => https://leetcode.com/problems/two-sum/ ✔
 21. 4Sum => https://leetcode.com/problems/4sum/ ✔
@@ -37,7 +37,7 @@
 24. XOR Queries of a Subarray => https://leetcode.com/problems/xor-queries-of-a-subarray/ & https://www.geeksforgeeks.org/count-number-subarrays-given-xor/ ✔
 25. Longest Substring Without Repeating Characters => https://leetcode.com/problems/longest-substring-without-repeating-characters/ ✔
 
-# Day5: (LinkedList)
+# Day5: (LinkedList) ✔
 
 26. Reverse Linked List => https://leetcode.com/problems/reverse-linked-list/ ✔
 27. Middle of the Linked List => https://leetcode.com/problems/middle-of-the-linked-list/ ✔
@@ -46,15 +46,15 @@
 30. Delete Node in a Linked List => https://leetcode.com/problems/delete-node-in-a-linked-list/ ✔
 31. Add Two Numbers => https://leetcode.com/problems/add-two-numbers/ ✔
 
-# Day6: (LinkedList)
+# Day6: (LinkedList) ✔
 
 32. Intersection of Two Linked Lists => https://leetcode.com/problems/intersection-of-two-linked-lists/ ✔ & https://leetcode.com/problems/linked-list-cycle/ ✔
 33. Palindrome Linked List => https://leetcode.com/problems/palindrome-linked-list/ ✔
 34. Reverse Nodes in k-Group => https://leetcode.com/problems/reverse-nodes-in-k-group/ ✔
 35. Linked List Cycle II => https://leetcode.com/problems/linked-list-cycle-ii/ ✔
 36. Flatten a Multilevel Doubly Linked List => https://www.geeksforgeeks.org/flattening-a-linked-list/ ✔ & https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/ ✔
-37. Rotate List => https://leetcode.com/problems/rotate-list/
-38. Copy List with Random Pointer => https://leetcode.com/problems/copy-list-with-random-pointer/
+37. Rotate List => https://leetcode.com/problems/rotate-list/ ✔
+38. Copy List with Random Pointer => https://leetcode.com/problems/copy-list-with-random-pointer/ ✔
 
 # Day7: (2-pointer) 
 
@@ -247,8 +247,8 @@
 
 # Day28: ✔
 
-1. Revise DBMS notes that you would have made during your semesters.
-2. If not made notes, spend 2 or 3 days and make notes from Knowledge Gate.
+1. Revise DBMS notes that you would have made during your semesters. ✔
+2. If not made notes, spend 2 or 3 days and make notes from Knowledge Gate. ✔
 
 # Day29:
 
