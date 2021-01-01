@@ -56,12 +56,12 @@
 37. Rotate List => https://leetcode.com/problems/rotate-list/ ✔
 38. Copy List with Random Pointer => https://leetcode.com/problems/copy-list-with-random-pointer/ ✔
 
-# Day7: (2-pointer) 
+# Day7: (2-pointer) ✔
 
 39. Same as 28 ✔
 40. Same as 35 ✔
 41. 3Sum => https://leetcode.com/problems/3sum/ ✔
-42. Trapping Rain Water => https://leetcode.com/problems/trapping-rain-water/
+42. Trapping Rain Water => https://leetcode.com/problems/trapping-rain-water/ ✔
 43. Remove Duplicates from Sorted Array => https://leetcode.com/problems/remove-duplicates-from-sorted-array/ ✔
 44. Max Consecutive Ones => https://leetcode.com/problems/max-consecutive-ones/ ✔
 
