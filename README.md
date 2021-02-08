@@ -65,14 +65,14 @@
 43. Remove Duplicates from Sorted Array => https://leetcode.com/problems/remove-duplicates-from-sorted-array/ ✔
 44. Max Consecutive Ones => https://leetcode.com/problems/max-consecutive-ones/ ✔
 
-# Day8: (Greedy) 
+# Day8: (Greedy) ✔
 
 45. N meetings in one room => https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0 ✔
 46. Activity Selection => https://practice.geeksforgeeks.org/problems/activity-selection/0 ✔
 47. Number of Coins => https://practice.geeksforgeeks.org/problems/number-of-coins/0 ✔
-48. Fractional Knapsack => https://practice.geeksforgeeks.org/problems/fractional-knapsack/0
-49. Minimum Platforms => https://practice.geeksforgeeks.org/problems/minimum-platforms/0
-50. Maximum Profit in Job Scheduling => https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+48. Fractional Knapsack => https://practice.geeksforgeeks.org/problems/fractional-knapsack/0 ✔
+49. Minimum Platforms => https://practice.geeksforgeeks.org/problems/minimum-platforms/0 ✔
+50. Maximum Profit in Job Scheduling => https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1# ✔
 
 # Day9: (Backtracking)
 
