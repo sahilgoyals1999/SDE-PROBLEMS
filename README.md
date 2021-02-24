@@ -240,10 +240,10 @@
 160. Same as 56
 161. Palindrome Partitioning(MCM variation) => https://leetcode.com/problems/palindrome-partitioning/
 
-# Day27:
+# Day27: ✔
 
-1. Revise OS notes that you would have made during your sem
-2. If not made notes, spend 2 or 3 days and make notes from Knowledge Gate.
+1. Revise OS notes that you would have made during your sem ✔
+2. If not made notes, spend 2 or 3 days and make notes from Knowledge Gate. ✔
 
 # Day28: ✔
 
