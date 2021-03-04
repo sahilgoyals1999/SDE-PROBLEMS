@@ -74,23 +74,23 @@
 49. Minimum Platforms => https://practice.geeksforgeeks.org/problems/minimum-platforms/0 ✔
 50. Maximum Profit in Job Scheduling => https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1# ✔
 
-# Day9: (Recursion)
+# Day9: (Recursion) ✔
 
-57. Combination Sum => https://leetcode.com/problems/combination-sum/ ✔
-58. Combination Sum II => https://leetcode.com/problems/combination-sum-ii/ ✔
-59. Palindrome Partitioning => https://leetcode.com/problems/palindrome-partitioning/ ✔
-60. Subset Sums => https://practice.geeksforgeeks.org/problems/subset-sums2234/1 ✔
-61. Subset Sum II => https://leetcode.com/problems/subsets-ii/ ✔
-62. Permutation Sequence => https://leetcode.com/problems/permutation-sequence/
+51. Combination Sum => https://leetcode.com/problems/combination-sum/ ✔
+52. Combination Sum II => https://leetcode.com/problems/combination-sum-ii/ ✔
+53. Palindrome Partitioning => https://leetcode.com/problems/palindrome-partitioning/ ✔
+54. Subset Sums => https://practice.geeksforgeeks.org/problems/subset-sums2234/1 ✔
+55. Subset Sum II => https://leetcode.com/problems/subsets-ii/ ✔
+56. Permutation Sequence => https://leetcode.com/problems/permutation-sequence/ ✔
 
 # Day10: (Backtracking)
 
-51. N-Queens => https://leetcode.com/problems/n-queens/
-52. Sudoku Solver => https://leetcode.com/problems/sudoku-solver/
-53. M-Coloring Problem => https://practice.geeksforgeeks.org/problems/m-coloring-problem/0
-54. Rat in a Maze Problem - I => https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
-55. Permutations => https://leetcode.com/problems/permutations/ ✔
-56. Word Break => https://leetcode.com/problems/word-break/
+57. N-Queens => https://leetcode.com/problems/n-queens/
+58. Sudoku Solver => https://leetcode.com/problems/sudoku-solver/
+59. M-Coloring Problem => https://practice.geeksforgeeks.org/problems/m-coloring-problem/0
+60. Rat in a Maze Problem - I => https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
+61. Permutations => https://leetcode.com/problems/permutations/ ✔
+62. Word Break => https://leetcode.com/problems/word-break/
 
 # Day11: (Divide and Conquer)
 
