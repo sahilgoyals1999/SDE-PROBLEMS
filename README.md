@@ -85,11 +85,11 @@
 
 # Day10: (Backtracking)
 
-57. N-Queens => https://leetcode.com/problems/n-queens/
-58. Sudoku Solver => https://leetcode.com/problems/sudoku-solver/
-59. M-Coloring Problem => https://practice.geeksforgeeks.org/problems/m-coloring-problem/0
-60. Rat in a Maze Problem - I => https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
-61. Permutations => https://leetcode.com/problems/permutations/ ✔
+57. Permutations => https://leetcode.com/problems/permutations/ ✔
+58. N-Queens => https://leetcode.com/problems/n-queens/
+59. Sudoku Solver => https://leetcode.com/problems/sudoku-solver/
+60. M-Coloring Problem => https://practice.geeksforgeeks.org/problems/m-coloring-problem/0
+61. Rat in a Maze Problem - I => https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
 62. Word Break => https://leetcode.com/problems/word-break/
 
 # Day11: (Divide and Conquer)
